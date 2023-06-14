@@ -1,0 +1,14 @@
+
+[Cara penginstalan aplikasi]
+
+1.download & instal terlebih dahulu aplikasi xampp server
+2.Pindah folder aplikasi ke folder xampp-htdoc
+3.Kemudian star aplikasi xampp
+
+IMPORT DATABASE
+1.buka browser localhost/phpmyadmin
+2.buat database baru sesuai dengan nama db
+3.IMPORT file database di database baru yang anda buat
+
+Jalankan aplikasi
+Browser = localhost/arsip-desa
